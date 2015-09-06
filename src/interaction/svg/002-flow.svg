@@ -16,7 +16,7 @@
    id="svg20364"
    version="1.1"
    inkscape:version="0.91pre3 r13670"
-   sodipodi:docname="002.svg">
+   sodipodi:docname="002-flow.svg">
   <defs
      id="defs20366">
     <marker
@@ -208,9 +208,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4169856"
-     inkscape:cx="214.61891"
-     inkscape:cy="318.71517"
+     inkscape:zoom="1.6868938"
+     inkscape:cx="137.34128"
+     inkscape:cy="255.47269"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -969,16 +969,16 @@
        transform="translate(571.90592,846.761)"
        xml:space="preserve"
        id="flowRoot17585"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fa4535;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"><flowRegion
          id="flowRegion17587"><rect
            id="rect17589"
            width="76.954597"
            height="36.237869"
            x="43"
            y="111.36221"
-           style="fill:#aaaaaa;fill-opacity:1" /></flowRegion><flowPara
+           style="fill:#fa4535;fill-opacity:1;" /></flowRegion><flowPara
          id="flowPara17591"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#aaaaaa;fill-opacity:1">Remove</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#fa4535;fill-opacity:1;">Remove</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#ffa500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#DotM);marker-end:url(#TriangleOutL)"
        d="m 430,362.3622 -60,0 0,360 20,0"
        id="path17601"
@@ -1079,8 +1079,10 @@
            y="111.36221"
            style="fill:#777777" /></flowRegion><flowPara
          id="flowPara19501"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#777777">On hover user can remove action (will ask confirmation)</flowPara></flowRoot>    <g
-       transform="translate(-235.24202,413.85929)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#777777">On hover a remove button will be shown.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#777777"
+         id="flowPara14149">IDEA: copy/paste interactions</flowPara></flowRoot>    <g
+       transform="translate(-235.24202,441.85929)"
        id="g19508">
       <circle
          r="15.499748"
@@ -1102,7 +1104,7 @@
            sodipodi:role="line">2</tspan></text>
     </g>
     <flowRoot
-       transform="translate(46.876334,559.8995)"
+       transform="translate(46.876334,587.8995)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#777777;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot19516"
        xml:space="preserve"><flowRegion
@@ -1114,7 +1116,7 @@
            width="240.12367"
            id="rect19520" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#777777"
-         id="flowPara19552">Text: Action + Element</flowPara></flowRoot>    <g
+         id="flowPara19552">Text: Action + Element.</flowPara></flowRoot>    <g
        transform="translate(-238.07678,568.39123)"
        id="g19524">
       <circle
@@ -1138,7 +1140,7 @@
     </g>
     <g
        id="g19532"
-       transform="translate(-235.24202,473.85929)">
+       transform="translate(-235.24202,501.85929)">
       <circle
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffa500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00050437;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="circle19534"
@@ -1162,7 +1164,7 @@
        xml:space="preserve"
        id="flowRoot19540"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#777777;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(46.876334,619.8995)"><flowRegion
+       transform="translate(46.876334,647.8995)"><flowRegion
          id="flowRegion19542"><rect
            id="rect19544"
            width="240.12367"
@@ -1171,5 +1173,62 @@
            y="111.36221"
            style="fill:#777777" /></flowRegion><flowPara
          id="flowPara19546"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#777777">Once applied, you can also remove it</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#777777">Once applied, you can also remove it.</flowPara></flowRoot>    <g
+       transform="translate(102.75798,695.85929)"
+       id="g14125">
+      <circle
+         r="15.499748"
+         cy="273.21942"
+         cx="291.16489"
+         id="circle14127"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffa500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00050437;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text14129"
+         y="280.50946"
+         x="290.99399"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:20px;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="280.50946"
+           x="290.99399"
+           id="tspan14131"
+           sodipodi:role="line">4</tspan></text>
+    </g>
+    <g
+       transform="translate(-235.24202,567.85929)"
+       id="g14133">
+      <circle
+         r="15.499748"
+         cy="273.21942"
+         cx="291.16489"
+         id="circle14135"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffa500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00050437;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text14137"
+         y="280.50946"
+         x="290.99399"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:20px;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="280.50946"
+           x="290.99399"
+           id="tspan14139"
+           sodipodi:role="line">4</tspan></text>
+    </g>
+    <flowRoot
+       transform="translate(46.876334,713.8995)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#777777;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot14141"
+       xml:space="preserve"><flowRegion
+         id="flowRegion14143"><rect
+           style="fill:#777777"
+           y="111.36221"
+           x="43"
+           height="93.100494"
+           width="240.12367"
+           id="rect14145" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#777777"
+         id="flowPara14147">&quot;Save&quot; button will look disabled until everything needed for the action is set.</flowPara></flowRoot>  </g>
 </svg>

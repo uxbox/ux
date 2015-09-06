@@ -84,9 +84,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59640701"
-     inkscape:cx="278.55118"
-     inkscape:cy="580.12291"
+     inkscape:zoom="1.4200219"
+     inkscape:cx="453.85171"
+     inkscape:cy="708.9575"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -108,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -232,16 +232,16 @@
        transform="translate(380.5,80.5)"
        xml:space="preserve"
        id="flowRoot3635"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.5;"><flowRegion
          id="flowRegion3637"><rect
            id="rect3639"
            width="555"
            height="47.999969"
            x="43"
            y="111.36221"
-           style="fill:#aaaaaa;fill-opacity:1" /></flowRegion><flowPara
+           style="fill:#aaaaaa;fill-opacity:1;" /></flowRegion><flowPara
          id="flowPara3641"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#aaaaaa;fill-opacity:1">Select page</flowPara></flowRoot>    <use
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#aaaaaa;fill-opacity:1;">Select page</flowPara></flowRoot>    <use
        style="fill:#aaaaaa;fill-opacity:1"
        transform="matrix(0.01002827,0,0,-0.01002827,661.34127,208.84696)"
        height="100%"
